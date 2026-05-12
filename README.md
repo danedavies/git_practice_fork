@@ -12,3 +12,7 @@ echo "- Error handling for division by zero" >> README.md
 ## Development Environment
 - Using Visual Studio Code for Git integration
 - VS Code provides a visual interface for Git operations
+
+## Contributors
+- Ryan Weir
+- David Altman
